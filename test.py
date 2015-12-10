@@ -22,7 +22,8 @@ def recipients():
     r = ''
     for i in l:
         r = r + i + ';'
-    print r    
+    print r  
+    print r
 
 if __name__ == '__main__':
     try:
