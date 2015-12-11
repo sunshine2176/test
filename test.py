@@ -12,7 +12,7 @@ def different(temp):
     if temp == 1:
         return True
     else:
-        return '1111'
+        return '111122222'
 def recipients():
     """转换收件人地址"""
     #s = 'Xixi, QIN(MIE CD R&D VAL-CD-TCT) intern <xixi.qin@tcl.com>; Pengxia, WANG(MIE CD R&D VAL-CD-TCT) intern <pengxia.wang@tcl.com>; Lei, SUN(MIE CD R&D VAL-CD-TCT) <leisun@tcl.com>; Yang, LI(MIE CD R&D VAL-CD-TCT) intern <yang-li@tcl.com>; Zicheng, SUN(MIE CD R&D VAL-CD-TCT) <zicheng.sun@tcl.com>; Wei, YANG(MIE CD R&D VAL-CD-TCT) <wei.y@tcl.com>; Xinjiu, QIAO(MIE CD R&D VAL-CD-TCT) <xinjiu.qiao@tcl.com>; Liling, WANG(MIE CD R&D VAL-CD-TCT) <liling.wang@tcl.com>; Zhoupei, HE(MIE CD R&D VAL-CD-TCT) <zhoupei.he@tcl.com>; Tingting, HE(MIE CD R&D VAL-CD-TCT) <tingtinghe@tcl.com>; Zhanyu, HUO(MIE CD R&D VAL-CD-TCT) <zhanyu.huo@tcl.com>;Xiaobo, CHI(MIE CD R&D VAL-CD-TCT) <xiaobo.chi@tcl.com>'
